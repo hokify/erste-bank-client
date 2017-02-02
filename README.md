@@ -1,7 +1,7 @@
 # erste-bank-client node js client
 
 
-A node-js module for erste bank to retrieve transactions. It's based on the python version of https://github.com/angelol/erste-bank-client. Uses "George" API to retrieve data.
+A node-js module for erste bank to retrieve transactions. It's based on the python version of https://github.com/angelol/erste-bank-client. Uses "George"'s API to retrieve data.
 
 ``npm install erste-bank-client``
 
