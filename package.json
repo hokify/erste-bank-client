@@ -1,0 +1,23 @@
+{
+  "name": "erste-bank-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/simllll/erste-bank-client"
+  },
+  "keywords": [
+    "erste",
+    "bank"
+  ],
+  "author": "Simon Tretter",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "request": "^2.79.0"
+  }
+}
