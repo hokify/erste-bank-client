@@ -10,7 +10,7 @@ How to use:
 var ErsteBankClient = require('erste-bank-client');`
 
 var from = new Date();
-startDate.setDate(startDate.getDay()-10);
+from.setDate(from.getDay()-10);
 var to = new Date();
 var ebc = new ErsteBankClient({
     username: '',
