@@ -1,6 +1,6 @@
 {
   "name": "erste-bank-client",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A node-js module for erste bank to retrieve transactions",
   "main": "index.js",
   "scripts": {
