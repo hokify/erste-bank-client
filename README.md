@@ -7,7 +7,7 @@ A node-js module for erste bank to retrieve transactions. It's based on the pyth
 
 How to use:
 ```
-var ErsteBankClient = require('erste-bank-client');`
+var ErsteBankClient = require('erste-bank-client');
 
 var from = new Date();
 from.setDate(from.getDay()-10);
